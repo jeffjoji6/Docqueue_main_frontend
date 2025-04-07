@@ -1,0 +1,11 @@
+.header{
+    color: #3658C1;
+    padding-top: 8px;
+    margin: 12px;
+    text-transform: uppercase;
+    
+}
+#bck{
+    background: rgb(66,102,215);
+background: linear-gradient(180deg, rgba(66,102,215,0.86) 20%, rgba(66,102,215,0.96) 64%, rgba(84,115,212,0) 100%);
+}
