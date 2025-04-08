@@ -10,11 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@esbuild/darwin-arm64": "^0.25.2",
     "@headlessui/react": "^2.2.0",
     "@heroicons/react": "^2.0.18",
     "@react-google-maps/api": "^2.20.6",
-    "@rollup/rollup-darwin-arm64": "^4.38.0",
     "axios": "^1.8.1",
     "chart.js": "^4.4.8",
     "cors": "^2.8.5",
